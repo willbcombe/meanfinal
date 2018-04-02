@@ -1,0 +1,18 @@
+{
+  "name": "meanfinal",
+  "version": "1.0.0",
+  "description": "boats",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "ejs-locals": "^1.0.2",
+    "express": "^4.16.3",
+    "mongojs": "^2.5.0"
+  }
+}
